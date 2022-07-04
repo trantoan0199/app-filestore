@@ -1,26 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Admin, Resource } from 'react-admin'
+import './App.css'
+import Dashboard from './Dashboard'
+import jsonServerProvider from 'ra-data-json-server'
+import products from './products'
+import tags from './tags'
+import { Layout } from './Layout'
+
+export const API = 'http://192.168.2.16:7979/'
+
+// const dataProvider = jsonServerProvider('http://localhost:7979')
+const dataProvider = jsonServerProvider(`${API}api`)
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Admin dashboard={Dashboard} layout={Layout} dataProvider={dataProvider}>
+      <Resource name="files" {...products} />
+      {/* <Resource name="tags" {...tags} /> */}
+    </Admin>
+  )
 }
 
-export default App;
+export default App

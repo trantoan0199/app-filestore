@@ -1,0 +1,235 @@
+{
+  "products": [
+    {
+      "id": "11",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "bvgdownload.png",
+      "originalName": "download.png",
+      "path": "http://192.168.2.16:7979/filestore/picture/100/100/d75b2899-c353-44ca-897f-309de438d3a0/download.png",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "tag_id": "4",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 0,
+      "tags": [
+        "Foodh",
+        "dog"
+      ]
+    },
+    {
+      "id": "12",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "sad",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/city-1.jpeg",
+      "size": "800x400",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "5",
+      "created_time": "2022-06-27",
+      "download_time": "2022-06-27",
+      "download_total": 15,
+      "action": 1,
+      "tags": [
+        "Nature",
+        "Flowers",
+        "Cars"
+      ]
+    },
+    {
+      "id": "13",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/city-3.jpeg",
+      "size": "800x500",
+      "status": "false",
+      "type": "png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "5",
+      "created_time": "2022-06-23",
+      "download_time": "2022-06-23",
+      "download_total": 15,
+      "action": 2,
+      "tags": [
+        "City",
+        "Nature",
+        "Business",
+        "Foodh",
+        "dog"
+      ]
+    },
+    {
+      "id": "14",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/city-7.jpeg",
+      "size": "700x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "6",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 1,
+      "tags": [
+        "Tech",
+        "Foodh",
+        "City"
+      ]
+    },
+    {
+      "id": "15",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "baohoai",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/city-8.jpeg",
+      "size": "700x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2022-06-21",
+      "categori_id": "6",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 0,
+      "tags": [
+        "bird",
+        "name"
+      ]
+    },
+    {
+      "id": "16",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "binh",
+      "originalName": "download.png",
+      "path": "https://i.pinimg.com/originals/af/19/45/af1945fd2ce22dd7ed4340501fbb5bd5.gif",
+      "size": "600x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "7",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 1,
+      "tags": [
+        "Foodh",
+        "Nature"
+      ],
+      "date": "2022-06-21"
+    },
+    {
+      "id": "17",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://i.pinimg.com/originals/82/8e/ed/828eedcce8128fdd93bd1f23f9af8ba1.gif",
+      "size": "600x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "7",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 2,
+      "tags": [
+        "Foodh"
+      ]
+    },
+    {
+      "id": "18",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://hoatuyethouse.files.wordpress.com/2020/08/25f3bbffa2d54b67cef51f853551124a.gif",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "8",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 1,
+      "tags": [
+        "Foodh",
+        "Flowers"
+      ]
+    },
+    {
+      "id": "19",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://cdn.tgdd.vn/Files/2018/03/31/1078566/2aa25123-82fd-44e8-894a-a58fff098dc1_800x600.gif",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "categori_id": "8",
+      "created_time": "2022-06-26",
+      "download_time": "2022-06-26",
+      "download_total": 15,
+      "action": 1,
+      "tags": [
+        "Foodh"
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Business"
+    },
+    {
+      "id": 3,
+      "name": "Cars"
+    },
+    {
+      "id": 4,
+      "name": "City"
+    },
+    {
+      "id": 5,
+      "name": "Flowers"
+    },
+    {
+      "id": 6,
+      "name": "Foodh"
+    },
+    {
+      "id": 7,
+      "name": "Nature"
+    },
+    {
+      "id": 8,
+      "name": "Tech"
+    },
+    {
+      "id": 9,
+      "name": "dog"
+    },
+    {
+      "name": "cat",
+      "id": 10
+    },
+    {
+      "name": "bird",
+      "id": 11
+    },
+    {
+      "name": "name",
+      "id": 12
+    }
+  ]
+}
